@@ -283,8 +283,8 @@ OR:
     - Pythonic code
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 
-
-### Optional Books
+<details>
+<summary>### Optional Books</summary>
 
 **Some people recommend these, but I think it's going overboard, unless you have many years of software engineering experience and expect a much harder interview:**
 
@@ -322,7 +322,7 @@ OR:
     - A fine book, but after working through problems on several pages I got frustrated with the Pascal, do while loops, 1-indexed arrays, and unclear post-condition satisfaction results.
     - Would rather spend time on coding problems from another book or online coding problems.
 
-
+</details>
 ## Before you Get Started
 
 This list grew over many months, and yes, it kind of got out of hand.
