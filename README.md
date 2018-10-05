@@ -323,6 +323,7 @@ OR:
     - Would rather spend time on coding problems from another book or online coding problems.
 
 </details>
+
 ## Before you Get Started
 
 This list grew over many months, and yes, it kind of got out of hand.
