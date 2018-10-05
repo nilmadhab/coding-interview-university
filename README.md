@@ -174,7 +174,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - try to give solution, which interviewr is expecting
         - if interviewer ask to try other approach, do that, as we are all biased
 
-- [ ] Prep Course:
+- [X] Prep Course:
     - ~~[Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):~~
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
     - ~~[Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):~~
@@ -188,10 +188,6 @@ You can use a language you are comfortable in to do the coding part of the inter
 - Java
 - Python
 
-You could also use these, but read around first. There may be caveats:
-
-- JavaScript
-- Ruby
 
 You need to be very comfortable in the language and be knowledgeable.
 
@@ -209,11 +205,11 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 
 ### Interview Prep
 
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+- [X] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
     - answers in C++ and Java
     - this is a good warm-up for Cracking the Coding Interview
     - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [X] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
 If you have tons of extra time:
@@ -227,7 +223,7 @@ If you have tons of extra time:
 
 If short on time:
 
-- [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
+- ~~[Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)~~
     - The book was published in 2004, and is somewhat outdated, but it's a terrific resource for understanding a computer in brief.
     - The author invented HLA, so take mentions and examples in HLA with a grain of salt. Not widely used, but decent examples of what assembly looks like.
     - These chapters are worth the read to give you a nice foundation:
@@ -243,7 +239,7 @@ If short on time:
 
 If you have more time (I want this book):
 
-- [ ] [Computer Architecture, Sixth Edition: A Quantitative Approach](https://www.amazon.com/dp/0128119055)
+- ~~[Computer Architecture, Sixth Edition: A Quantitative Approach](https://www.amazon.com/dp/0128119055)~~
     - For a richer, more up-to-date (2017), but longer treatment
 
 
@@ -260,14 +256,14 @@ If you read though one of these, you should have all the data structures and alg
 
 I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
 
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
+- ~~[Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)~~
+- ~~[Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)~~
 
 If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
 
 ### Java
 
-- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
+- ~~[ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)~~
     - videos with book content (and Sedgewick!):
         - [Algorithms I](https://www.youtube.com/user/algorithmscourses/playlists?view=50&sort=dd&shelf_id=2)
         - [Algorithms II](https://www.youtube.com/user/algorithmscourses/playlists?shelf_id=3&view=50&sort=dd)
