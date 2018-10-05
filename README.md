@@ -284,7 +284,7 @@ OR:
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 
 <details>
-<summary> ### Optional Books</summary>
+<summary> ### Optional Books </summary>
 
 **Some people recommend these, but I think it's going overboard, unless you have many years of software engineering experience and expect a much harder interview:**
 
