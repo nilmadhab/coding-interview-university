@@ -5,7 +5,6 @@
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
 This is meant for **new software engineers** or those switching from
 software/web development to software engineering (where computer science knowledge is required). If you have
@@ -20,10 +19,10 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ## Table of Contents
 
-- [ ] [What is it?](#what-is-it)
-- [ ] [Why use it?](#why-use-it)
-- [ ] [How to use it](#how-to-use-it)
-- [ ] [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [X] [What is it?](#what-is-it)
+- [X] [Why use it?](#why-use-it)
+- [X] [How to use it](#how-to-use-it)
+- [X] [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [ ] [About Video Resources](#about-video-resources)
 - [ ] [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [ ] [Pick One Language for the Interview](#pick-one-language-for-the-interview)
