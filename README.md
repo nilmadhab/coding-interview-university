@@ -146,7 +146,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Don't feel you aren't smart enough
-- [X] Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
+- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [X] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 - [X] [Believe you can change](http://www.aaronsw.com/weblog/dweck)
@@ -175,9 +175,9 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - if interviewer ask to try other approach, do that, as we are all biased
 
 - [ ] Prep Course:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
+    - ~~[Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):~~
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+    - ~~[Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):~~
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
 
 ## Pick One Language for the Interview
