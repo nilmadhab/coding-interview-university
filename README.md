@@ -339,7 +339,8 @@ through my notes and making flashcards so I could review.
 
 Read please so you won't make my mistakes:
 
-[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
+- [X] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/) 
+    - use flash cards, repetations 
 
 ### 2. Use Flashcards
 
