@@ -170,7 +170,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) (22 min)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [X] How to Get a Job at the Big 4:
-    - [X] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8) (20min 18 sec )
+    - [X] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
         - try to give solution, which interviewr is expecting
         - if interviewer ask to try other approach, do that, as we are all biased
 
@@ -1144,9 +1144,10 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 - [ ] [Transactions Across Datacenters (video)](https://www.youtube.com/watch?v=srOgpXECblk)
 - [ ] [A plain English introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
 - [ ] Paxos Consensus algorithm:
-    - [short video](https://www.youtube.com/watch?v=s8JqcZtvnsM)
-    - [extended video with use case and multi-paxos](https://www.youtube.com/watch?v=JEpsBg0AO6o)
-    - [paper](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
+    - [X] [short video](https://www.youtube.com/watch?v=s8JqcZtvnsM)
+        - invented by lamport,
+    - [ ] [extended video with use case and multi-paxos](https://www.youtube.com/watch?v=JEpsBg0AO6o)
+    - [ ] [paper](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 - [ ] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 - [ ] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 - [ ] Scalability:
