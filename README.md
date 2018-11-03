@@ -1040,9 +1040,9 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [X] [Is TDD dead? (video)](https://www.youtube.com/watch?v=z9quxZsLcfo)
     - [ ] [Video series (152 videos) - not all are needed (video)](https://www.youtube.com/watch?v=nzJapzxH_rE&list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
     - [ ] [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc)
-    - [ ] Dependency injection:
+    - [X] Dependency injection:
         - [X] [video](https://www.youtube.com/watch?v=IKD2-MAkXyQ)
-        - [ ] [Tao Of Testing](http://jasonpolites.github.io/tao-of-testing/ch3-1.1.html)
+        - [X] [Tao Of Testing](http://jasonpolites.github.io/tao-of-testing/ch3-1.1.html)
     - [ ] [How to write tests](http://jasonpolites.github.io/tao-of-testing/ch4-1.1.html)
 
 - ### Scheduling
