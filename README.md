@@ -56,11 +56,11 @@ https://archive.org/search.php?query=subject%3A%2261b%22&and[]=mediatype%3A%22mo
     - [ ] quicksort
     - [ ] merge sort
 - [Graphs](#graphs)
-    - [ ] directed
-    - [ ] undirected
-    - [ ] adjacency matrix
-    - [ ] adjacency list
-    - [ ] traversals: BFS, DFS
+    - [X] directed
+    - [X] undirected
+    - [X] adjacency matrix
+    - [X] adjacency list
+    - [X] traversals: BFS, DFS
 - [Even More Knowledge](#even-more-knowledge)
     - [ ] [Recursion](#recursion)
     - [ ] [Dynamic Programming](#dynamic-programming)
