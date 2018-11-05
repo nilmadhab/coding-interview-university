@@ -76,7 +76,7 @@ https://archive.org/search.php?query=subject%3A%2261b%22&and[]=mediatype%3A%22mo
     - [ ] [Implement system routines](#implement-system-routines)
     - [ ] [String searching & manipulations](#string-searching--manipulations)
     - [ ] [Tries](#tries)
-    - [ ] [Floating Point Numbers](#floating-point-numbers)
+    - [X] [Floating Point Numbers](#floating-point-numbers)
     - [X] [Unicode](#unicode)
     - [X] [Endianness](#endianness)
 - [ ] [Networking](#networking)
@@ -1086,7 +1086,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 - ### Floating Point Numbers
     - [X] simple 8-bit: [Representation of Floating Point Numbers - 1 (video - there is an error in calculations - see video description)](https://www.youtube.com/watch?v=ji3SfClm8TU)
-    - [ ] 32 bit: [IEEE754 32-bit floating point binary (video)](https://www.youtube.com/watch?v=50ZYcZebIec)
+    - [X] 32 bit: [IEEE754 32-bit floating point binary (video)](https://www.youtube.com/watch?v=50ZYcZebIec)
 
 - ### Unicode
     - [X] [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets]( http://www.joelonsoftware.com/articles/Unicode.html)
