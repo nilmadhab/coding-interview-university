@@ -1164,7 +1164,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - invented by lamport, majority 
     - [ ] [extended video with use case and multi-paxos](https://www.youtube.com/watch?v=JEpsBg0AO6o)
     - [ ] [paper](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
-- [ ] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+- [X] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 - [ ] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 - [ ] Scalability:
     - [X] [Great overview (video)](https://www.youtube.com/watch?v=-W9F__D3oY4)
