@@ -64,7 +64,7 @@ https://archive.org/search.php?query=subject%3A%2261b%22&and[]=mediatype%3A%22mo
 - [Even More Knowledge](#even-more-knowledge)
     - [ ] [Recursion](#recursion)
     - [ ] [Dynamic Programming](#dynamic-programming)
-    - [ ] [Object-Oriented Programming](#object-oriented-programming)
+    - [X] [Object-Oriented Programming](#object-oriented-programming)
     - [ ] [Design Patterns](#design-patterns)
     - [ ] [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
     - [ ] [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
