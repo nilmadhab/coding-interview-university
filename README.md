@@ -33,15 +33,15 @@ https://archive.org/search.php?query=subject%3A%2261b%22&and[]=mediatype%3A%22mo
 - [X] [What you Won't See Covered](#what-you-wont-see-covered)
 - [X] [Prerequisite Knowledge](#prerequisite-knowledge)
 - [X] [The Daily Plan](#the-daily-plan)
-- [ ] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [ ] [Data Structures](#data-structures)
-    - [ ] [Arrays](#arrays)
-    - [ ] [Linked Lists](#linked-lists)
-    - [ ] [Stack](#stack)
-    - [ ] [Queue](#queue)
-    - [ ] [Hash table](#hash-table)
+- [X] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [X] [Data Structures](#data-structures)
+    - [X] [Arrays](#arrays)
+    - [X] [Linked Lists](#linked-lists)
+    - [X] [Stack](#stack)
+    - [X] [Queue](#queue)
+    - [X] [Hash table](#hash-table)
 - [More Knowledge](#more-knowledge)
-    - [ ] [Binary search](#binary-search)
+    - [X] [Binary search](#binary-search)
     - [ ] [Bitwise operations](#bitwise-operations)
 - [Trees](#trees)
     - [ ] [Trees - Notes & Background](#trees---notes--background)
@@ -50,11 +50,11 @@ https://archive.org/search.php?query=subject%3A%2261b%22&and[]=mediatype%3A%22mo
     - [ ] balanced search trees (general concept, not details)
     - [ ] traversals: preorder, inorder, postorder, BFS, DFS
 - [Sorting](#sorting)
-    - [ ] selection
-    - [ ] insertion
-    - [ ] heapsort
-    - [ ] quicksort
-    - [ ] merge sort
+    - [X] selection
+    - [X] insertion
+    - [X] heapsort
+    - [X] quicksort
+    - [X] merge sort
 - [Graphs](#graphs)
     - [X] directed
     - [X] undirected
